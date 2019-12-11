@@ -2,6 +2,9 @@
 
 Pagina web creada por Tomas Castillo, Juan Peralta, Alejandro Sobarzo, Sebastian Vargas y Gaston Velasquez 
 
+Asignatura: Taller de programacion II
+
+
 #Index con carrusel
 ![](https://i.ibb.co/5cwsM4q/Sin-t-tulo.png)
 
